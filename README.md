@@ -1,1 +1,1 @@
-# Max-Min
+# Max-Min This code finds the minimum unfairness when selecting `k` elements from an array by sorting the array and comparing the difference between the maximum and minimum in each contiguous subarray of size `k`. It returns the smallest such difference as the result.
